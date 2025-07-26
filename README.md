@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm François</h1>
 <h3 align="center">A passionate dev from around the world constantly learning and seeking emerging opportunities</h3>
 
+- 🧑‍🎓 Student of Autonomous University of Barcelona | < BE in Computer Engineering>
+
 - 🔭 I’m currently working on [Points Counter](https://github.com/IF-Enterprise/Points-Counter)
 
 - 🌱 I’m currently learning **Java, Kotlin, Pure & Applied Mathematics, Algorithms and Multi-platform apps**
 
 - 📫 How to reach me **fliraud.edu@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
