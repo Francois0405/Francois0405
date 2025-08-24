@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm François</h1>
 <h3 align="center">A passionate dev from around the world constantly learning and seeking emerging opportunities</h3>
 
-- 🧑‍🎓 Student of Autonomous University of Barcelona | < BE in Computer Engineering>
+- 🧑‍🎓 Student of Autonomous University of Barcelona | < BE in Computer Engineering >
 
 - 🔭 I’m currently working on [Points Counter](https://github.com/IF-Enterprise/Points-Counter)
 
